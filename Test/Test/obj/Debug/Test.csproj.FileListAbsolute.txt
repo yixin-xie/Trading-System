@@ -1,0 +1,6 @@
+E:\GitFiles\Trading-System\Test\Test\bin\Debug\Test.exe.config
+E:\GitFiles\Trading-System\Test\Test\bin\Debug\Test.exe
+E:\GitFiles\Trading-System\Test\Test\bin\Debug\Test.pdb
+E:\GitFiles\Trading-System\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\GitFiles\Trading-System\Test\Test\obj\Debug\Test.exe
+E:\GitFiles\Trading-System\Test\Test\obj\Debug\Test.pdb

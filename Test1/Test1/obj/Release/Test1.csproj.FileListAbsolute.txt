@@ -1,0 +1,8 @@
+E:\GitFiles\Trading-System\Test1\Test1\bin\Release\Test1.exe.config
+E:\GitFiles\Trading-System\Test1\Test1\bin\Release\Test1.exe
+E:\GitFiles\Trading-System\Test1\Test1\bin\Release\Test1.pdb
+E:\GitFiles\Trading-System\Test1\Test1\obj\Release\Test1.csprojResolveAssemblyReference.cache
+E:\GitFiles\Trading-System\Test1\Test1\obj\Release\Test1.Properties.Resources.resources
+E:\GitFiles\Trading-System\Test1\Test1\obj\Release\Test1.csproj.GenerateResource.Cache
+E:\GitFiles\Trading-System\Test1\Test1\obj\Release\Test1.exe
+E:\GitFiles\Trading-System\Test1\Test1\obj\Release\Test1.pdb
